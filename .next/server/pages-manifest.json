@@ -1,0 +1,13 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/": "pages/index.html",
+  "/rankings": "pages/rankings.js",
+  "/live": "pages/live.js",
+  "/recent": "pages/recent.js",
+  "/api/proxy-image": "pages/api/proxy-image.js",
+  "/_document": "pages/_document.js",
+  "/upcoming": "pages/upcoming.js",
+  "/rankings-t20-batsmen": "pages/rankings-t20-batsmen.js",
+  "/404": "pages/404.html"
+}
